@@ -1,4 +1,4 @@
-<h1>This is a personal portfolio website built using HTML, CSS, and a bit of JavaScript to showcase my skills, projects, and contact details. It's fully responsive and easy to navigate.</h1>
+<h1>This is a personal portfolio website built using HTML, CSS, and a bit of JavaScript to showcase my skills, projects, and contact details. It's easy to navigate.</h1>
 <p>Technologies Used
 HTML5
 CSS3
